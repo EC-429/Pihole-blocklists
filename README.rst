@@ -4,7 +4,7 @@ EC-429: PI-Hole Curated Lists
 .. image:: https://img.shields.io/badge/EC--429-Website-brightgreen
     :target: https://errorcode429.com
     
-.. image:: https://img.shields.io/badge/Pi--Hole-DNSinkHole
+.. image:: https://img.shields.io/badge/Pi--Hole-DNSinkHole-blue
     :target: https://pi-hole.net/
 
 Pihole-Lists contains curated Black/White lists for mobile applications. 
