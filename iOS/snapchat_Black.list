@@ -1,13 +1,24 @@
+# Added 09/22/2019
 app-analytics.snapchat.com
 sc-analytics.snapchat.com
 usc.adserver.snapads.com
 feelinsonice.l.google.com
 feelinsonice-mvm.l.google.com
 us-central1-gcp.api.sc-gw.com
-us-central1-gcp.api.snapchat.com
 pro-accounts.snapchat.com
 am-prod.sc-jpl.com
 gtq.sct.sc-prod.net
 st.sc-jpl.com
 loc.sc-jpl.com
 instalog-prod.sc-prod.net
+
+
+#Added 04/04/20
+snap.events.mapbox.com
+snap.api.mapbox.com
+loca.sc-jpl.com
+ms.sc-jpl.
+d2iv48hg4yxj1k.cloudfront.net
+d1315pj7676zgl.cloudfront.net
+cognac-prod.appspot.com
+topic-sticker-vending.snapchat.com
