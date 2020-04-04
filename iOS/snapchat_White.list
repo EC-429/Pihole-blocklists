@@ -1,3 +1,4 @@
+# Added 09/22/2019
 app.snapchat.com
 mvm.snapchat.com
 jaguar-prod.snapchat.com
@@ -9,3 +10,7 @@ gcdn-st.sc-cdn.net
 s.sc-cdn.net
 snap-storage-cdn.i.google.com
 images.bitmoji.com
+
+#Added 04/04/20
+us-central1-gcp.api.snapchat.com
+us-east1-aws.api.snapchat.com
