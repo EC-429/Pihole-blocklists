@@ -11,10 +11,16 @@ Pihole-Lists contains curated Black/White lists for mobile applications.
 They can be added to Pi-Hole's built in black.list and white.list for easy integration.
 Lists have been shown to block close to 90% of DNS requests
 
-Curate Mobile Applications
+Curate Mobile Applications for iOS
 --------
 
 - Snapchat
 - Instagram
 - Twitter
 
+Curate Mobile Applications for Android
+--------
+
+- Snapchat (coming soon...)
+- Instagram (coming soon...)
+- Twitter (coming soon...)
